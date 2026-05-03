@@ -1,4 +1,5 @@
-import des
+#!/usr/bin/env python3
+from . import des
 import base64
 
 
